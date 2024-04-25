@@ -6,4 +6,4 @@ const controller_1 = require("../controller/controller");
 const express_1 = require("express");
 const router = (0, express_1.Router)();
 exports.router = router;
-router.get("/", controller_1.AlumnosController.getInfo);
+router.get("/", controller_1.AlumnosController.getStudents);

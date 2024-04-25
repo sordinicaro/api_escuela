@@ -18,8 +18,8 @@ abstract class AlumnosModel {
             const foundMaterias = db.alumnos.find((m) => m.id === materias);
 
             if (foundMaterias) {
-                const { id, materias } = foundMaterias
-                return { id, materias };
+                const { materias } = foundMaterias
+                return { materias };
             }
         }
 

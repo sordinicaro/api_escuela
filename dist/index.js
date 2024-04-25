@@ -16,7 +16,7 @@ const PORT = process.env.API_PORT || 1234;
 app.get("/api", (req, res) => {
     res.json(Notas_json_1.colegio);
 });
-app.use("api/alumnos", estudiantesRouter_1.router);
+app.use("/api/alumnos", estudiantesRouter_1.router);
 app.use("*", (req, res) => {
     res.status(404).json({ error: "recurso not found" });
 });
