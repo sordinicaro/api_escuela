@@ -1,0 +1,9 @@
+### ver version
+
+GET http://localhost:1222/api
+
+### ver materias
+GET http://localhost:1222/api/alumnos?id=1
+
+### ver alumno
+GET http://localhost:1222/api/alumnos?nombre=juan

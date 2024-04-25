@@ -1,0 +1,257 @@
+{
+    "colegio": "Dr. Horacio de la Mota",
+    "alumnos": [
+        {
+            "id": "1",
+            "nombre": "Juan",
+            "apellido": "Pérez",
+            "dni": "12345678A",
+            "telefono": "123456789",
+            "curso": "1º ESO",
+            "materias": {
+                "lengua": {
+                    "examenes_trimestrales": [
+                        {
+                            "trimestre": "1er Trimestre",
+                            "notas": [
+                                8,
+                                7,
+                                6
+                            ]
+                        },
+                        {
+                            "trimestre": "2do Trimestre",
+                            "notas": [
+                                7,
+                                6,
+                                9
+                            ]
+                        },
+                        {
+                            "trimestre": "3er Trimestre",
+                            "notas": [
+                                8,
+                                8,
+                                7
+                            ]
+                        }
+                    ],
+                    "promedio": 7.33
+                },
+                "matematicas": {
+                    "examenes_trimestrales": [
+                        {
+                            "trimestre": "1er Trimestre",
+                            "notas": [
+                                7,
+                                6,
+                                8
+                            ]
+                        },
+                        {
+                            "trimestre": "2do Trimestre",
+                            "notas": [
+                                6,
+                                7,
+                                8
+                            ]
+                        },
+                        {
+                            "trimestre": "3er Trimestre",
+                            "notas": [
+                                8,
+                                9,
+                                9
+                            ]
+                        }
+                    ],
+                    "promedio": 7.67
+                },
+                "sociales": {
+                    "examenes_trimestrales": [
+                        {
+                            "trimestre": "1er Trimestre",
+                            "notas": [
+                                9,
+                                8,
+                                7
+                            ]
+                        },
+                        {
+                            "trimestre": "2do Trimestre",
+                            "notas": [
+                                8,
+                                7,
+                                9
+                            ]
+                        },
+                        {
+                            "trimestre": "3er Trimestre",
+                            "notas": [
+                                7,
+                                8,
+                                8
+                            ]
+                        }
+                    ],
+                    "promedio": 8.0
+                },
+                "naturales": {
+                    "examenes_trimestrales": [
+                        {
+                            "trimestre": "1er Trimestre",
+                            "notas": [
+                                8,
+                                7,
+                                7
+                            ]
+                        },
+                        {
+                            "trimestre": "2do Trimestre",
+                            "notas": [
+                                7,
+                                8,
+                                8
+                            ]
+                        },
+                        {
+                            "trimestre": "3er Trimestre",
+                            "notas": [
+                                9,
+                                8,
+                                7
+                            ]
+                        }
+                    ],
+                    "promedio": 7.67
+                }
+            }
+        },
+        {
+            "id": "2",
+            "nombre": "María",
+            "apellido": "Gómez",
+            "dni": "87654321B",
+            "telefono": "987654321",
+            "curso": "2º ESO",
+            "materias": {
+                "lengua": {
+                    "examenes_trimestrales": [
+                        {
+                            "trimestre": "1er Trimestre",
+                            "notas": [
+                                7,
+                                8,
+                                6
+                            ]
+                        },
+                        {
+                            "trimestre": "2do Trimestre",
+                            "notas": [
+                                8,
+                                9,
+                                7
+                            ]
+                        },
+                        {
+                            "trimestre": "3er Trimestre",
+                            "notas": [
+                                9,
+                                8,
+                                8
+                            ]
+                        }
+                    ],
+                    "promedio": 7.67
+                },
+                "matematicas": {
+                    "examenes_trimestrales": [
+                        {
+                            "trimestre": "1er Trimestre",
+                            "notas": [
+                                8,
+                                7,
+                                8
+                            ]
+                        },
+                        {
+                            "trimestre": "2do Trimestre",
+                            "notas": [
+                                7,
+                                8,
+                                9
+                            ]
+                        },
+                        {
+                            "trimestre": "3er Trimestre",
+                            "notas": [
+                                9,
+                                9,
+                                8
+                            ]
+                        }
+                    ],
+                    "promedio": 8.0
+                },
+                "sociales": {
+                    "examenes_trimestrales": [
+                        {
+                            "trimestre": "1er Trimestre",
+                            "notas": [
+                                9,
+                                8,
+                                7
+                            ]
+                        },
+                        {
+                            "trimestre": "2do Trimestre",
+                            "notas": [
+                                8,
+                                7,
+                                9
+                            ]
+                        },
+                        {
+                            "trimestre": "3er Trimestre",
+                            "notas": [
+                                7,
+                                8,
+                                8
+                            ]
+                        }
+                    ],
+                    "promedio": 8.0
+                },
+                "naturales": {
+                    "examenes_trimestrales": [
+                        {
+                            "trimestre": "1er Trimestre",
+                            "notas": [
+                                8,
+                                7,
+                                7
+                            ]
+                        },
+                        {
+                            "trimestre": "2do Trimestre",
+                            "notas": [
+                                7,
+                                8,
+                                8
+                            ]
+                        },
+                        {
+                            "trimestre": "3er Trimestre",
+                            "notas": [
+                                9,
+                                8,
+                                7
+                            ]
+                        }
+                    ],
+                    "promedio": 7.67
+                }
+            }
+        }
+    ]
+}
